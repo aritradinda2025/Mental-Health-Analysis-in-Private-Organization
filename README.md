@@ -1,2 +1,8 @@
 # Mental-Health-Analysis-in-Private-Organization
-This project analyzes employee mental health in private organizations to identify stress factors and improve workplace well-being.
+Mental health has become an important concern in modern workplaces, especially in private organizations where employees often face high work pressure, tight deadlines, and performance expectations. This project focuses on analyzing the mental health conditions of employees working in private organizations to understand how workplace factors influence their overall well-being.
+
+The main objective of this project is to study the impact of factors such as work pressure, job role, working environment, work-life balance, and organizational support on employees’ mental health. The project uses collected data related to employee stress levels, emotional well-being, and mental health challenges to identify common issues faced by employees in private-sector workplaces.
+
+In this project, data is cleaned, processed, and analyzed using basic data analysis techniques. Various visualizations such as charts and graphs are used to clearly present patterns and trends related to stress, anxiety, burnout, and job satisfaction. These visual insights help in understanding how different workplace conditions affect mental health across different roles and departments.
+
+The analysis results provide valuable insights for organizations to recognize mental health challenges among employees. By understanding these issues, companies can take proactive steps such as improving workplace culture, offering mental health support programs, promoting work-life balance, and creating a more supportive and healthy working environment. Ultimately, this project highlights the importance of employee mental well-being and how it directly contributes to higher productivity, better job satisfaction, and long-term organizational success.
